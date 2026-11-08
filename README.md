@@ -1,6 +1,6 @@
 # Hi there, I'm Bharath Tipirisetty 👋
 
-### Senior Data Engineer & Cloud Solutions Architect | Graduate Student
+### Senior Data Engineer & Data Architect | Graduate Student
 
 > Architecting cloud-first Lakehouses, Enterprise Data Warehousing (EDW) ecosystems, transactional/analytical databases, and AI/ML processing pipelines. Over 20 years of experience bridging legacy infrastructure with modern cloud scale.
 
