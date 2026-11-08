@@ -11,7 +11,7 @@ I am a Senior Data Engineer and Architect specializing in the design, modernizat
 * **🔭 Current Focus:** Enterprise AI integration (Azure AI Foundry, Genie AI agents, Copilot), unstructured RADAR & vision data pipelines, and Databricks Unity Catalog governance.
 * **🎓 Graduate Studies:** Advancing skills in computer science, algorithmic design, and distributed systems.
 * **🎯 Technical Goals:** Operationalizing autonomous data pipelines, building real-time telemetry processing architectures, and establishing enterprise-wide data governance standards.
-* **📍 Location:** Pella, IA
+* **📍 Location:** IOWA
 
 ---
 
