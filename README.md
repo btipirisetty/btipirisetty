@@ -81,6 +81,7 @@ I am a Senior Data Engineer and Architect specializing in the design, modernizat
 
 * ✉️ **Email:** bharatht@bu.com
 * 🌐 **GitHub:** [github.com/btipirisetty](https://github.com/btipirisetty)
+* 📄 **Resume:** [View Full Resume (PDF)](./Bharath_Resume_2026.pdf)
 
 ---
 *“Strong portfolios develop over time through continued evaluation and refinement.”*
