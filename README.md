@@ -79,8 +79,7 @@ I am a Senior Data Engineer and Architect specializing in the design, modernizat
 
 ## 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/btipirisetty](https://www.linkedin.com/in/bharath-tipirisetty)
-* ✉️ **Email:** btipirisetty@gmail.com
+* ✉️ **Email:** bharatht@bu.com
 * 🌐 **GitHub:** [github.com/btipirisetty](https://github.com/btipirisetty)
 
 ---
