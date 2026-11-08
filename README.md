@@ -2,7 +2,7 @@
 
 ### Senior Data Engineer & Data Architect | Graduate Student
 
-> Architecting cloud-first Lakehouses, Enterprise Data Warehousing (EDW) ecosystems, transactional/analytical databases, and AI/ML processing pipelines. Over 20 years of experience bridging legacy infrastructure with modern cloud scale.
+> Senior Data Engineer & Architect building cloud-scale Lakehouses, EDW platforms, and AI/ML analytics engines on Azure & Databricks. Architecting cloud-first Lakehouses, Enterprise Data Warehousing (EDW) ecosystems, transactional/analytical databases, and AI/ML processing pipelines.
 
 ## 👨‍💻 About Me
 
